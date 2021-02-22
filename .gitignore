@@ -1,5 +1,5 @@
 *.code-workspace
 
-*.exe
+*.apk
 
 .gitignore
